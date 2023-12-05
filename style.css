@@ -1,5 +1,19 @@
-ul  {
-    border: blue;
+body  {
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 
+#freelancersList  {
+    border: solid 2px blue;
+}
+
+#freelancersList li  {
+    border: solid 1px red;
+    padding: 0.5rem;
+    cursor: pointer;
+}
+
+#spanCount  {
+    background-color: blue;
+    color: antiquewhite;
+}
